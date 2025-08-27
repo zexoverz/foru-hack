@@ -1,4 +1,4 @@
-# Product Requirements Document: DID Claim Improvement & Community Membership System
+# DID Claim Improvement & Community Membership System
 
 ## Executive Summary
 
